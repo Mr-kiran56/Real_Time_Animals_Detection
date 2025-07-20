@@ -1,0 +1,1 @@
+after downloading before going to run the files you have to download a vedioa and add the vedio file to vediocapture in animal.py replace the vedio file there
